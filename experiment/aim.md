@@ -1,1 +1,1 @@
-### Aim of the experiment
+Virtual Memory provides a clean address space to the processes. Also by swapping in and swapping out pages gives the illusion of the availability of a large physical memory module to the users.
