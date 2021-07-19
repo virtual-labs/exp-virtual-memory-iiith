@@ -29,7 +29,7 @@
     },
     {
       "target": "references.html",
-      "source": "refereences.md",
+      "source": "references.md",
       "label": "References",
       "unit-type": "task",
       "content-type": "text"
