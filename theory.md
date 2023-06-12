@@ -1,0 +1,1 @@
+There are different page table organizations and page replacement policies possible while implementing virtual memories in the operating systems.
